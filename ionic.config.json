@@ -1,0 +1,7 @@
+{
+  "name": "galeriaFotosNativa",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
